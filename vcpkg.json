@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "version-string": "0.0.1",
+    "dependencies": [
+        {
+            "name": "d3dx12",
+            "platform": "windows"
+        }
+    ]
+}
