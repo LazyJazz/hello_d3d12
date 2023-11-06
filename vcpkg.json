@@ -5,6 +5,9 @@
         {
             "name": "d3dx12",
             "platform": "windows"
-        }
+        },
+        "glfw3",
+        "directxmath",
+        "glm"
     ]
 }
